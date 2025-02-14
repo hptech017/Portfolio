@@ -1,0 +1,12 @@
+{
+    "build": {
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "commands": [
+        "npm install react@16.14.0 react-dom@16.14.0 --legacy-peer-deps",
+        "npm run build"
+      ]
+    }
+  }
+  
