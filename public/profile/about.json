@@ -1,5 +1,6 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
-    
+    "about": "Hey there! I'm Harshit, a full-stack developer, problem solver, and creative thinker who loves turning ideas into reality. I don’t just write code—I craft experiences that are smooth, intuitive, and fun to use.\n\nPeople often call me the \"go-to guy\" when it comes to figuring things out—whether it's a tricky bug in the code or a complex problem that needs a smart approach. I enjoy challenges, and the harder the problem, the more fun I have solving it!\n\nWhat I Bring to the Table\n🚀 Creative Problem Solving – I think outside the box and love finding clever solutions.\n💡 Design + Code – I blend logic with creativity, making applications that don’t just work but also look great.\n📈 Always Learning – Tech evolves, and so do I. I'm always up for learning the latest tools and tricks.\n⚡ Chill & Fun to Work With – I believe in working smart, keeping things simple, and making the process enjoyable.\n\nBeyond Coding?\nWhen I’m not building apps, you’ll find me analyzing stock trends, exploring Photoshop, or just geeking out on new tech. I believe in taking risks, experimenting, and constantly improving—because what’s life without a little adventure?\n\nLet’s build something awesome together!",
+    "imageSource": "/images/myPhoto.png"
+
+
 }
